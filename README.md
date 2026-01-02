@@ -21,6 +21,13 @@ Me chamo Rodrigo Araújo de Souza, sou da área de TI e curso Engenharia de Comp
     </a>
 </p>
 
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodrigoaraujo12&theme=2077">
+  <img height="180" align="center" alt="Top Language Comit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rodrigoaraujo12&theme=2077">
+  <br>
+
+
+   
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -124,16 +131,16 @@ Me chamo Rodrigo Araújo de Souza, sou da área de TI e curso Engenharia de Comp
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RodrigoAraujo12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrigoaraujo12&theme=2077" 
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAraujo12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="175" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodrigoaraujo12&theme=2077" 
   />
 
 </p>
